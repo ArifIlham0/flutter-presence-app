@@ -5,6 +5,10 @@
   <a href="" target="_blank">By Muhammad Arif Ilham</a>
 </h2>
 
+An attendance or time-tracking app, to help monitor and manage the attendance and presence of employee.
+</br>
+Available on Amazon Appstore
+
 ## Screenshots
 
 </br>
