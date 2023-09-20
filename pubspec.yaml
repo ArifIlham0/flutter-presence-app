@@ -1,0 +1,38 @@
+name: presence
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.6.5
+  firebase_core: 2.15.1
+  firebase_auth: 4.9.0
+  cloud_firestore: 4.9.1
+  firebase_storage: 11.2.6
+  image_picker: 1.0.4
+  convex_bottom_bar: 3.2.0
+  intl: 0.18.1
+  geolocator: 10.0.1
+  geocoding: 2.1.0
+  syncfusion_flutter_datepicker: 22.2.12
+  flutter: 
+    sdk: flutter
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon.png"
+  min_sdk_android: 21 # android min sdk min:16, default 21
+
+dev_dependencies: 
+  flutter_launcher_icons: "^0.13.1"
+  flutter_lints: ^2.0.0
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+
