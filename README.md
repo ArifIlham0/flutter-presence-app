@@ -15,7 +15,6 @@ Available on Amazon Appstore
 
 <center>
 
-![project-1](https://github.com/ArifIlham0/flutter-presence-app/assets/90549963/9824d179-ce01-4699-898d-5c6343d4018c)
 ![presence1](https://github.com/ArifIlham0/flutter-presence-app/assets/90549963/0e2bd427-12ac-412d-a2e3-b764fc229b51)
 ![presence2](https://github.com/ArifIlham0/flutter-presence-app/assets/90549963/ae2d078d-6eaf-452a-bba2-0a538ce92927)
 ![presence3](https://github.com/ArifIlham0/flutter-presence-app/assets/90549963/b9b7b1e4-5ed0-4294-9796-8383253e9de8)
