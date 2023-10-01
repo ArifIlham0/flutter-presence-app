@@ -1,0 +1,8 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "editor.formatOnSave": false,
+    "[dart]": {
+        "editor.formatOnSave": false
+    },
+
+}
