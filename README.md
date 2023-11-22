@@ -5,7 +5,7 @@
   <a href="https://www.arifilham.my.id" target="_blank">By Muhammad Arif Ilham</a>
 </h2>
 
-Iims to provide a seamless and user-friendly experience for capturing photos and videos on mobile devices. 
+An attendance or time- tracking app, to help monitor and manage the attendance and presence of employee
 
 ## Screenshots
 
@@ -13,15 +13,18 @@ Iims to provide a seamless and user-friendly experience for capturing photos and
 
 <center>
 
-![cameraApp1](https://github.com/ArifIlham0/flutter-presence-app/assets/90549963/6137e2f0-bb2e-41d7-a0c1-06b56707d9f5)
-![cameraApp2](https://github.com/ArifIlham0/flutter-presence-app/assets/90549963/682176dc-2d07-4ce2-a497-3e76438c67c1)
+![presence1](https://github.com/ArifIlham0/flutter-presence-app/assets/90549963/ab11636c-7b9d-4752-a671-231cc5a5a496)
+![presence2](https://github.com/ArifIlham0/flutter-presence-app/assets/90549963/c09c1489-7101-4a2e-addc-38305b679ed4)
+![presence3](https://github.com/ArifIlham0/flutter-presence-app/assets/90549963/1fd6c03d-09ed-402d-ad3c-e3418d7903e3)
+
+
 
 </center>
 
 <br/>
 
 <h3 align="center">
-    <a href="https://github.com/ArifIlham0/flutter-camera-app/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/ArifIlham0/flutter-presence-app/issues">Report Bug</a> &nbsp; &nbsp;
 </h3>
 
 ## Built With
@@ -30,7 +33,8 @@ This project was built using these technologies.
 
 - Flutter
 - Dart
-- Android Studio
+- Firebase
+- VS Code
 
 ## Getting Started
 
