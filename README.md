@@ -5,7 +5,7 @@
   <a href="https://www.arifilham.my.id" target="_blank">By Muhammad Arif Ilham</a>
 </h2>
 
-An attendance or time-tracking app, to help monitor and manage the attendance and presence of employee.
+Iims to provide a seamless and user-friendly experience for capturing photos and videos on mobile devices. 
 
 ## Screenshots
 
@@ -13,16 +13,15 @@ An attendance or time-tracking app, to help monitor and manage the attendance an
 
 <center>
 
-![presence1](https://github.com/ArifIlham0/flutter-presence-app/assets/90549963/0e2bd427-12ac-412d-a2e3-b764fc229b51)
-![presence2](https://github.com/ArifIlham0/flutter-presence-app/assets/90549963/ae2d078d-6eaf-452a-bba2-0a538ce92927)
-![presence3](https://github.com/ArifIlham0/flutter-presence-app/assets/90549963/b9b7b1e4-5ed0-4294-9796-8383253e9de8)
+![cameraApp1](https://github.com/ArifIlham0/flutter-presence-app/assets/90549963/6137e2f0-bb2e-41d7-a0c1-06b56707d9f5)
+![cameraApp2](https://github.com/ArifIlham0/flutter-presence-app/assets/90549963/682176dc-2d07-4ce2-a497-3e76438c67c1)
 
 </center>
 
 <br/>
 
 <h3 align="center">
-    <a href="https://github.com/ArifIlham0/react-native-job-app/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/ArifIlham0/flutter-camera-app/issues">Report Bug</a> &nbsp; &nbsp;
 </h3>
 
 ## Built With
@@ -31,8 +30,7 @@ This project was built using these technologies.
 
 - Flutter
 - Dart
-- Firebase
-- VS Code
+- Android Studio
 
 ## Getting Started
 
